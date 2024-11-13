@@ -1,5 +1,5 @@
 # MT2DInv-DenseNet
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14017316.svg)](https://doi.org/10.5281/zenodo.14017316)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14120745.svg)](https://doi.org/10.5281/zenodo.14120745)
 
 The source codes and data corresponds to manuscript: N. Yu, C. Wang, H. Chen et al., A two-dimensional magnetotelluric deep
 learning inversion approach based on improved Dense Convolutional Network. Computers and
