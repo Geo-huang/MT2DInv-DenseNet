@@ -5,14 +5,16 @@ The source codes and data corresponds to manuscript: N. Yu, C. Wang, H. Chen et 
 learning inversion approach based on improved Dense Convolutional Network. Computers and
 Geosciences (2024), doi: https://doi.org/10.1016/j.cageo.2024.105765.
 
-Followings are descriptions about the two uploaded folders.
+Followings are descriptions about the two uploaded folders:
 
 #Folder 1：unchanged_DenseNet
+
 This folder contains two Python programs that combine the standard DenseNet network with the magnetotelluric
 2D inversion problem to solve the magnetotelluric 2D inversion problem. They are the training function file
 ‘train_MTinv_densenet.py’ and the prediction function file ‘predict_MTinv_densenet.py’.
 
 #Folder 2：improved Densenet
+
 This folder contains two Python programs, which improve the algorithm based on the standard DenseNet, solve
 the two-dimensional magnetotelluric inversion problem and improve the inversion reliability. They are the
 training function file ‘train_MTinv_iDenseNet.py’ and the prediction function file ‘predict_MTinv_iDenseNet.py’.
